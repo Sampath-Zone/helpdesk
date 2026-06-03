@@ -401,11 +401,11 @@ This project helped strengthen understanding of:
 
 # 👨‍💻 Author
 
-## Nikil T M
+## Sampath kumar A
 
 Backend Developer | Java | Spring Boot | React | PostgreSQL
 
-GitHub: https://github.com/Nikil1717
+
 
 ---
 
