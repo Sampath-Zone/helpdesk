@@ -1,0 +1,39 @@
+# Backend
+helpdesk/target/
+<<<<<<< HEAD
+helpdesk/.classpath
+helpdesk/.project
+helpdesk/.settings/
+=======
+>>>>>>> d70b84c6d435a9c4ff693fb369e602e63b95e7fd
+
+# Frontend
+helpdesk-ui/node_modules/
+helpdesk-ui/dist/
+
+<<<<<<< HEAD
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+=======
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+
+# Logs
+*.log
+>>>>>>> d70b84c6d435a9c4ff693fb369e602e63b95e7fd
